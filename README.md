@@ -2,4 +2,4 @@
 
 ### Integrantes:
 - Eduardo do Nascimento barriviera - RM555309
-- Thiago Lima de Freitas - 556795
+- Thiago Lima de Freitas - RM556795
